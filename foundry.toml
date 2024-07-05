@@ -1,3 +1,5 @@
+# this file gives us configurations on how to work on foundry
+# this file is similar to package.json in node.js
 [profile.default]
 src = "src"
 out = "out"
